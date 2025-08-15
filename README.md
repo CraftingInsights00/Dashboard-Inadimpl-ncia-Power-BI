@@ -8,19 +8,19 @@ O projeto visa identificar padrões e tendências de inadimplência em institui�
 
 
 # Estrutura do Repositório
-- /dashboards: Contém o arquivo Power BI (Dashboard-Inadimplencia.pbix) com visualizações detalhadas.
-- /scripts: Inclui o Google Colab (EDA-inadimplencia.ipynb) utilizado para EDA e tratamento dos dados.
-- /documents: Relatórios executivos e materiais de suporte, detalhando a análise financeira.
 - /data: Conjunto de dados utilizados no projeto:
-- base_de_dados.xlsx: Arquivo original com dados brutos.
-- base.csv: Dados após tratamento, prontos para análise.
-- funil.csv: Dados do funil de cobrança tratados.
+- Google Colab (EDA-inadimplencia.ipynb) utilizado para EDA e tratamento dos dados.
+- Arquivo Power BI (Dashboard-Inadimplencia.pbix) com visualizações detalhadas.
+- LICENSE
+- README.md.
+- Relatório executivo, detalhando a análise financeira..
 
 
 # Guia de Uso
 # Pré-requisitos
 - Power BI Desktop: Necessário para abrir e interagir com o painel.
 - Python e Google Colab: Para rodar os scripts de análise de dados.
+
 # Etapas do Projeto
 - Análise Exploratória de Dados (EDA) em Python:
 - Usando bibliotecas como pandas, os, glob e datetime, o EDA explora a estrutura, qualidade e padrões nos dados.
