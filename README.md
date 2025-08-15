@@ -8,7 +8,7 @@ O projeto visa identificar padrões e tendências de inadimplência em institui�
 
 
 # Estrutura do Repositório
-- /data: Conjunto de dados utilizados no projeto:
+- /data: Conjunto de dados utilizados no projeto e base/funil tratados via Google colab/Python:
 - Google Colab (EDA-inadimplencia.ipynb) utilizado para EDA e tratamento dos dados.
 - Arquivo Power BI (Dashboard-Inadimplencia.pbix) com visualizações detalhadas.
 - LICENSE
