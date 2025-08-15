@@ -1,6 +1,6 @@
-Dashboard de Inadimplência Escolar em Power BI
-Descrição
-Este repositório documenta um projeto real de análise de inadimplência escolar, cobrindo desde a exploração inicial dos dados até a criação de um painel interativo em Power BI. Durante o processo, dados sensíveis foram devidamente ocultados para proteger a privacidade das informações.
+#Dashboard de Inadimplência Escolar em Power BI
+#Descrição
+#Este repositório documenta um projeto real de análise de inadimplência escolar, cobrindo desde a exploração inicial dos dados até a criação de um painel interativo em Power BI. Durante o processo, dados sensíveis foram devidamente ocultados para proteger a privacidade das informações.
 
 
 Objetivo
